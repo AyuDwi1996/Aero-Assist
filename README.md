@@ -14,10 +14,10 @@ This project focuses on implementing path planning and obstacle avoidance system
 - Data files can be found in this location [Roboflow](https://universe.roboflow.com/custom-object-detection-vvwt6/accessibility-object-detection/).
 
 ## Distribution of Data Classes
-<img align="right" alt="labels" src="https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/labels.jpg" width="700" height="500" />
+<img align="right" alt="labels" src="https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/labels.jpg" width="70" height="50" />
 
 ## Results after training Yolo
-<img align="right" alt="confusion matrix" src="https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/confusion_matrix_normalized.png" width="700" height="500" />
+![my image](https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/confusion_matrix_normalized.png)
 <img align="right" alt="f1 curve" src="https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/F1_curve.png" width="700" height="500" />
 <img align="right" alt="results" src="https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/results.png" width="700" height="500" />
 
