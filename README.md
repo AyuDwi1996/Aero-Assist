@@ -14,15 +14,15 @@ This project focuses on implementing path planning and obstacle avoidance system
 - Data files can be found in this location [Roboflow](https://universe.roboflow.com/custom-object-detection-vvwt6/accessibility-object-detection/).
 
 ## Distribution of Data Classes
-![im](https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/labels.jpg)
+![labels](https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/labels.jpg)
 
 ## Results after training Yolo
-![my image](https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/confusion_matrix_normalized.png)
-![mg](https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/F1_curve.png)
-![gg](https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/results.png)
+![matrix](https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/confusion_matrix_normalized.png)
+![curve](https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/F1_curve.png)
+![results](https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/results.png)
 
 ## Testing model on validation data
-![kk](https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/val_batch2_pred.jpg)
+![test results](https://github.com/AyuDwi1996/Aero-Assist/blob/main/results%20of%20object%20detction/val_batch2_pred.jpg)
 ## Video Demo of execution
 
 - To see path planning and object detection in action [Watch the Youtube Video](https://youtu.be/UlIQnAkgNVc).
