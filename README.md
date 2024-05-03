@@ -37,4 +37,5 @@ Please contact me at [adwivedi@horizon.csueastbay.edu] for any requests or permi
 
 - We would like to thank the developers of YOLO-Ultralytics for providing an excellent object detection algorithm.
 - Thanks to the open-source community for their contributions and resources.
+- Our gratitude to Tello SDK for making drone programming easier.
 
