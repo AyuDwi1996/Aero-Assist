@@ -14,29 +14,28 @@ This project focuses on implementing path planning and obstacle avoidance system
 - Data files can be found in this location [Roboflow](https://universe.roboflow.com/custom-object-detection-vvwt6/accessibility-object-detection/).
 
 ## Distribution of Data Classes
+![labels](results of object detction/labels.jpg)
 
 ## Results after training Yolo
+![confusion matrix](results of object detction/confusion_matrix_normalized.png)
+![confusion matrix](results of object detction/F1_curve.png)
+![confusion matrix](results of object detction/results.png)
 
-
-## Simulated Enviroment
-
-- Visualizations of the results, including plots and graphs, can be found in the `results/` directory.
-
-## Environment conversion to graph
+## Testing model on validation data
+![test results](results of object detction/val_batch2_pred.jpg)
 
 ## Video Demo of execution
 
+- To see path planning and object detection in action [Watch the Youtube Video](https://youtu.be/UlIQnAkgNVc).
 
-## Intellectual Property
+## Copyright and Usage
 
-This project is licensed under the [MIT License](LICENSE).
+This project is the intellectual property of [California State University, East Bay]. Unauthorized copying, distribution, or use of the code, data, or related materials without explicit permission is prohibited.
+
+Please contact me at [adwivedi@horizon.csueastbay.edu] for any requests or permissions related to this project.
 
 ## Acknowledgments
 
-- We would like to thank the developers of YOLO for providing an excellent object detection algorithm.
+- We would like to thank the developers of YOLO-Ultralytics for providing an excellent object detection algorithm.
 - Thanks to the open-source community for their contributions and resources.
-
----
-
-Thank you for using our project! If you have any questions or need further assistance, please open an issue in the GitHub repository.
 
