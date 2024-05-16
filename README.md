@@ -8,6 +8,7 @@ This project focuses on implementing path planning and obstacle avoidance system
 - **Object Detection**: Implementation of object detection using the YOLO algorithm is done in Google Colab.
 - **Path Planning**: Implementation of Dijkstra's algorithm for optimal path planning.
 - **Obstacle Avoidance**: Integration of object detection with path planning for real-time obstacle avoidance in python script.
+**Code Base For Obstacle Avoidance Algorithm is not published yet due to condfidentiallity reasons, will be available summer 2024**
 
 ## Data
 
